@@ -1,0 +1,76 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 2386dac8-d726-7d7f-8d29-d61f30b64047
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7ebfd39e-f912-f094-be33-c40aed191dec
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 8cce59ec-1fd6-c3d0-8861-70eb3af63341
+  name: Instructor Background
+  pageRef: /pages/instructor-insights/instructor-background
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 40
+- identifier: e1e02978-4210-a6c1-c2cd-1fede9d3918a
+  name: Grounding the Course in Tangible Experiences
+  pageRef: /pages/instructor-insights/grounding-the-course-in-tangible-experiences
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 50
+- identifier: 347b45b2-8da9-3eae-480e-b66ccc50886e
+  name: 'Using Written Reflections to Encourage Students to Explore Waste '
+  pageRef: /pages/instructor-insights/using-written-reflections-to-encourage-students-to-explore-waste-through-their-own-lenses
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 60
+- identifier: 65c076be-8e57-e948-5cfc-eaa9fa0526e5
+  name: Designing and Assessing the Open-Ended Final Project
+  pageRef: /pages/instructor-insights/designing-and-assessing-the-open-ended-final-project
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 70
+- identifier: 4b4c6cc9-474f-3366-5bcb-7a4ed15c6036
+  name: Co-Teaching the Course
+  pageRef: /pages/instructor-insights/co-teaching-the-course
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 80
+- identifier: 22a5d4ed-4132-a913-819d-d56391f25cea
+  name: Fostering Personalized Relationships with Students
+  pageRef: /pages/instructor-insights/fostering-personalized-relationships-with-students
+  parent: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
+  weight: 90
+- identifier: 6ad84cab-2d0b-66fc-ac62-acbeb92668d0
+  name: Readings
+  pageRef: /pages/readings
+  weight: 100
+- identifier: bf62f05e-9c05-4faa-4435-47e5b593f3be
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 110
+- identifier: d75dc184-9790-5fa1-1f2e-798ee5040856
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 120
+- identifier: 9295774c-4d17-93bb-8511-a65db87396d3
+  name: Waste Technology
+  pageRef: /pages/assignments/waste-technology
+  parent: d75dc184-9790-5fa1-1f2e-798ee5040856
+  weight: 130
+- identifier: 845dbc74-2466-8247-27fe-d8155dce8743
+  name: Material Stream
+  pageRef: /pages/assignments/material-stream
+  parent: d75dc184-9790-5fa1-1f2e-798ee5040856
+  weight: 140
+- identifier: f0003324-d959-a26d-4fe0-47f05e9899ce
+  name: Partnerships/Enterprises
+  pageRef: /pages/assignments/partnerships-enterprises
+  parent: d75dc184-9790-5fa1-1f2e-798ee5040856
+  weight: 150
+- identifier: 26b2e60a-282f-b106-5d04-5dbe6a22273c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 160
